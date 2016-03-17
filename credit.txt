@@ -1,1 +1,4 @@
-http://stackoverflow.com/questions/17604354/the-fourth-root-of-12-or-any-other-number-in-python-3
+I used these threads for referance.  They are licenced under the Creative Commons sharealike license 3.0 unported (CC BY-SA 3.0) avaible at this link: http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+Threads used:
+  http://stackoverflow.com/questions/17604354/the-fourth-root-of-12-or-any-other-number-in-python-3
